@@ -1,6 +1,7 @@
 def helloWorld():
     print("hello git")
-    print("巫树华你好")
+    print("巫树华是傻子")
+    print("巫树华是垃圾")
 
 
 if __name__ == '__main__':
