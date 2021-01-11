@@ -4,7 +4,7 @@ def helloWorld():
     print("李晶锦真好看")
 
     print("巫树华是傻子")
-    print("巫树华 ff是垃圾")
+    print("巫树华是垃圾")
 
 
 
